@@ -1,10 +1,4 @@
-.high-scores {
-    text-align: left;
-    float: left;
-    padding-top: 2%;
-    padding-left: 2%;
-    max-width: 10%;
-}
+
 
 .timer {
     float: right;
@@ -43,10 +37,9 @@ h1 {
 }
 
 p {
-    margin-top: 150px;
-    margin-bottom: 150px;
     text-align: center;
     font-size: 1.8em;
+    margin: 150px 100px 150px 100px;
 }
 
 #question {
